@@ -36,8 +36,7 @@ Analog vs digital image
 
  ## 6. Image Compression
     
-     Images are often compressed when they need to be transferred or due to storage constraints. This is also important for displaying images online, as small thumbnails 
-     are highly compressed versions of the original. Clicking on the image displays it in its original resolution, which saves bandwidth on servers.
+ Images are often compressed when they need to be transferred or due to storage constraints. This is also important for displaying images online, as small thumbnails are highly compressed versions of the original. Clicking on the image displays it in its original resolution, which saves bandwidth on servers.
 
  ## 7. Morphological Processing
     

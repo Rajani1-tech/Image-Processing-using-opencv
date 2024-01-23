@@ -1,4 +1,4 @@
-# # Image-Processing-using-opencv
+ # Image-Processing-using-opencv
 Image processing involves using mathematical and computational techniques to manipulate digital images. Its goal is to enhance, compress, or extract information from images, and automate tasks that would be time-consuming for humans.
 
 Image processing can be applied to various applications like medical imaging, satellite image analysis, computer vision, robotics, facial recognition, and image-based pattern recognition.
@@ -11,47 +11,58 @@ Analog vs digital image
    ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/b28294c5-4b82-44dc-bb68-3f9fc1e753b1)
 
 
-# # Phases in image processing
+ # Phases in image processing
 
-1. Image Acquisition
+1. Image Acquisition:
+   
 A camera captures an image which is then digitized for processing in a computer.
 
-2. Image Enhancement
+3. Image Enhancement:
+   
 Image manipulation techniques are used to enhance acquired images by highlighting important details like contrast and brightness adjustment, etc. However, image enhancement is subjective in nature.
 
-3. Image Restoration
+5. Image Restoration
+   
 This step enhances image appearance by removing noise or blur, which can be attributed to a mathematical or probabilistic model.
 
-4. Color Image Processing
+7. Color Image Processing
+   
 Process colored images (16-bit RGB/RGBA) for color correction or modeling.
 
-5. Wavelets and Multi-Resolution Processing
+9. Wavelets and Multi-Resolution Processing
+    
 Wavelets are used to represent images at different resolutions by subdividing them into smaller regions.
 
-6. Image Compression
+11. Image Compression
+    
 Images are often compressed when they need to be transferred or due to storage constraints. This is also important for displaying images online, as small thumbnails are highly compressed versions of the original. Clicking on the image displays it in its original resolution, which saves bandwidth on servers.
 
-7. Morphological Processing
+13. Morphological Processing
+    
 Morphological processing uses mathematical operations to extract image components for downstream tasks. For example, erosion and dilation operations are used to sharpen and blur object edges in an image.
 
-8. Image Segmentation
+15. Image Segmentation
+    
 Image segmentation involves dividing an image into key parts for simplified analysis. By focusing on important details, automated systems can perform better.
 
-9. Representation and Description
+17. Representation and Description
+    
 This step decides to depict the segmented region as boundary or complete region. Description extracts attributes for quantitative information or object differentiation.
 
-10. Object Detection and Recognition
+19. Object Detection and Recognition
+    
 Automated systems need to label segmented objects to indicate what has been detected, such as “vehicle” or “person”.
 
-11. Knowledge Base
+21. Knowledge Base
+    
 Information about an object’s location and label can be encoded into the knowledge base to help solve the task at hand.
 
 ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/f9890635-c4cf-439e-872d-315d9691ab41)
 
 
-# # steps for digital image processing
+ # Steps for digital image processing
 
-# Image Processing Technique
+## Image Processing Technique
 
 Image processing can be used to enhance image quality, remove undesired objects, or even create new images. It’s a vast field with various techniques. We will focus on common image-processing tasks in this section.
 

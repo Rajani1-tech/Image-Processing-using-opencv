@@ -17,46 +17,46 @@ Analog vs digital image
    
   A camera captures an image which is then digitized for processing in a computer.
 
-3. ## Image Enhancement
+2. ## Image Enhancement
    
   Image manipulation techniques are used to enhance acquired images by highlighting important details like contrast and brightness adjustment, etc. However, image 
   enhancement is subjective in nature.
 
-5. ## Image Restoration
+3. ## Image Restoration
    
   This step enhances image appearance by removing noise or blur, which can be attributed to a mathematical or probabilistic model.
 
-7. ## Color Image Processing
+4. ## Color Image Processing
    
   Process colored images (16-bit RGB/RGBA) for color correction or modeling.
 
-9. ## Wavelets and Multi-Resolution Processing
+5. ## Wavelets and Multi-Resolution Processing
     
    Wavelets are used to represent images at different resolutions by subdividing them into smaller regions.
 
-11. ## Image Compression
+6. ## Image Compression
     
      Images are often compressed when they need to be transferred or due to storage constraints. This is also important for displaying images online, as small thumbnails 
      are highly compressed versions of the original. Clicking on the image displays it in its original resolution, which saves bandwidth on servers.
 
-13. ## Morphological Processing
+7. ## Morphological Processing
     
    Morphological processing uses mathematical operations to extract image components for downstream tasks. For example, erosion and dilation operations are used to sharpen 
   and blur object edges in an image.
 
-15. ## Image Segmentation
+8. ## Image Segmentation
     
 Image segmentation involves dividing an image into key parts for simplified analysis. By focusing on important details, automated systems can perform better.
 
-17. ## Representation and Description
+9. ## Representation and Description
     
 This step decides to depict the segmented region as boundary or complete region. Description extracts attributes for quantitative information or object differentiation.
 
-19. ## Object Detection and Recognition
+10. ## Object Detection and Recognition
     
  Automated systems need to label segmented objects to indicate what has been detected, such as “vehicle” or “person”.
 
-21. ## Knowledge Base
+11. ## Knowledge Base
     
   Information about an object’s location and label can be encoded into the knowledge base to help solve the task at hand.
 
@@ -91,14 +91,14 @@ Image segmentation is a computer vision task that involves dividing an image int
 ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/3fa5a513-f9e9-4780-8700-ad5097b4ab9e)
 
 
-5. ## Object Detection
+4. ## Object Detection
 Object detection is the task of identifying and locating objects in images or videos. It is a fundamental element in various applications, including autonomous vehicles, surveillance, and more. CNNs are a popular approach for object detection, and TensorFlow’s object detection API offers an easy way to implement it using pre-trained models.
 
 
 ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/8172c305-d222-431a-b1f6-86f555c0f7f2)
 
 
-6. ## Image compression
+5. ## Image compression
 Image compression reduces digital image file size without compromising its visual quality. There are two types of compression: lossless and lossy. Lossless compression preserves every detail, while lossy compression discards some information. Common compression algorithms include JPEG, PNG, GIF, and WebP. The choice between lossless and lossy compression depends on the specific application’s requirements.
 
 

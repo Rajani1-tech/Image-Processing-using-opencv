@@ -1,4 +1,4 @@
-## Image-Processing-using-opencv
+# # Image-Processing-using-opencv
 Image processing involves using mathematical and computational techniques to manipulate digital images. Its goal is to enhance, compress, or extract information from images, and automate tasks that would be time-consuming for humans.
 
 Image processing can be applied to various applications like medical imaging, satellite image analysis, computer vision, robotics, facial recognition, and image-based pattern recognition.
@@ -11,7 +11,7 @@ Analog vs digital image
    ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/b28294c5-4b82-44dc-bb68-3f9fc1e753b1)
 
 
-##Phases in image processing
+# # Phases in image processing
 
 1. Image Acquisition
 A camera captures an image which is then digitized for processing in a computer.
@@ -49,9 +49,9 @@ Information about an object’s location and label can be encoded into the knowl
 ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/f9890635-c4cf-439e-872d-315d9691ab41)
 
 
-##steps for digital image processing
+# # steps for digital image processing
 
-#Image Processing Technique
+# Image Processing Technique
 
 Image processing can be used to enhance image quality, remove undesired objects, or even create new images. It’s a vast field with various techniques. We will focus on common image-processing tasks in this section.
 

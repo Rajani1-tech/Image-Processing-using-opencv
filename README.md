@@ -4,9 +4,9 @@ Image processing involves using mathematical and computational techniques to man
 Image processing can be applied to various applications like medical imaging, satellite image analysis, computer vision, robotics, facial recognition, and image-based pattern recognition.
 
 It can be categorized into two types: analog and digital image processing. However, digital image processing is more prevalent today due to the widespread use of digital imaging devices.
-
-
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/b28294c5-4b82-44dc-bb68-3f9fc1e753b1)
 Analog vs digital image
+
 Phases in image processing
 
 1. Image Acquisition
@@ -42,6 +42,8 @@ Automated systems need to label segmented objects to indicate what has been dete
 11. Knowledge Base
 Information about an object’s location and label can be encoded into the knowledge base to help solve the task at hand.
 
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/f9890635-c4cf-439e-872d-315d9691ab41)
+
 
 steps for digital image processing
 Image Processing Technique
@@ -50,23 +52,31 @@ Image processing can be used to enhance image quality, remove undesired objects,
 1. Image Enhancement
 Image enhancement is a common image-processing task with crucial applications in various fields. One approach is adjusting the contrast and brightness of an image, which can be done automatically or manually using image editing software.
 
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/fb9fd150-3580-498a-a440-020411a16478)
+
 
 2. Image restoration
 Image restoration is a process of improving the quality of a degraded or damaged image to recover the original, undistorted version. Various factors can contribute to image degradation, including noise, blurring, and other artifacts. Image restoration techniques aim to mitigate these effects and enhance the visual quality of the image.
 
 One common method for image restoration is the use of a restoration filter, such as a deblurring filter or a denoising filter.
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/70097d05-a07a-4030-b9d3-b29dcf163af4)
 
 
 3. Image Segmentation
 Image segmentation is a computer vision task that involves dividing an image into different segments or regions based on certain characteristics, such as color, intensity, or texture. The goal is to simplify the representation of an image into meaningful and semantically coherent parts. Each segment typically corresponds to a specific object or region of interest within the image.
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/3fa5a513-f9e9-4780-8700-ad5097b4ab9e)
 
 
 4. Object Detection
 Object detection is the task of identifying and locating objects in images or videos. It is a fundamental element in various applications, including autonomous vehicles, surveillance, and more. CNNs are a popular approach for object detection, and TensorFlow’s object detection API offers an easy way to implement it using pre-trained models.
 
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/8172c305-d222-431a-b1f6-86f555c0f7f2)
 
-5. Image compression
+
+6. Image compression
 Image compression reduces digital image file size without compromising its visual quality. There are two types of compression: lossless and lossy. Lossless compression preserves every detail, while lossy compression discards some information. Common compression algorithms include JPEG, PNG, GIF, and WebP. The choice between lossless and lossy compression depends on the specific application’s requirements.
+
+![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/449bc64e-7175-4d73-bc4d-76de6ff2332a)
 
 
 OpenCV is a powerful and versatile framework for image processing in Python. It offers a comprehensive set of tools for tasks like resizing, cropping, edge detection, image enhancement, and object detection. OpenCV can also be used for feature extraction, image segmentation, and machine learning applications in computer vision.

@@ -8,7 +8,8 @@ It can be categorized into two types: analog and digital image processing. Howev
 Analog vs digital image
 
 
-   ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/b28294c5-4b82-44dc-bb68-3f9fc1e753b1)
+   ![image](https://github.com/Rajani1-tech/Image-Processing-using-opencv/assets/83020452/d17bdc33-ed12-49ff-b91b-b8721f306909)
+
 
 
  # Phases in image processing
